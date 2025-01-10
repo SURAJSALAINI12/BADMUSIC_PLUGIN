@@ -22,10 +22,10 @@ async def start(client: Client, message: Message):
         ],
           [
             InlineKeyboardButton(
-                text="☆ ᴄʜᴀɴɴᴇʟ 💗 ", url=f"https://t.me/HEROKUBIN_01"
+                text="☆ ᴄʜᴀɴɴᴇʟ 💗 ", url=f"https://t.me/quizbysu"
             ),
             InlineKeyboardButton(
-                text="☆ ʀᴇᴘᴏ 💗", url=f"https://github.com/Badhacker98/BADMUSIC/fork"
+                text="☆ ʀᴇᴘᴏ 💗", url=f"https://github.com/SURAJSALAINI12/BADMUSIC_PLUGIN"
             ),
         ],
                 [
